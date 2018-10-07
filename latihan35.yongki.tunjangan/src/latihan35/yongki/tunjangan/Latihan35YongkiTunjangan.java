@@ -37,7 +37,7 @@ public class Latihan35YongkiTunjangan {
         System.out.println();
 
         tjn.hasilTunjangan(gajiPokok, status);
-        System.out.println("Developed By : Chiqo Rifky Saputra");
+        System.out.println("Developed By : Anony");
     }
 
 }
