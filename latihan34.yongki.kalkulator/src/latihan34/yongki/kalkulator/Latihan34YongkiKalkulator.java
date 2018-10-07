@@ -7,10 +7,13 @@ package latihan34.yongki.kalkulator;
 
 import java.util.Scanner;
 import yongki.kalkulator.fungsi.fungsiPenjumlahan;
-
 /**
  *
  * @author yongki
+ * Nama : Yongki Agustin
+ * Kelas : PBO6/IF6K 
+ * Nim : 10117903
+ * Deskripsi Program :Program ini berisi program untuk menghitung aritmatika
  */
 public class Latihan34YongkiKalkulator {
 

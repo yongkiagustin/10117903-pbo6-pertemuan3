@@ -6,13 +6,13 @@
 package pkg10117903.yongki.latihan32.daftarfilm;
 
 import yongki.daftarFilm.model.fungsiFilm;
-
 /**
+ *
  * @author yongki
- * Nama : Aditya Nur Iskandar 
- * Kelas : PBO2/IF 2 
- * Nim : 10117070
- * Deskripsi Program : Program ini berisi program menampilkan data Daftar Film
+ * Nama : Yongki Agustin
+ * Kelas : PBO6/IF6K 
+ * Nim : 10117903
+ * Deskripsi Program : program ini untuk menampilkan daftar film
  */
 public class YongkiLatihan32DaftarFilm {
 

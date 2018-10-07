@@ -4,10 +4,13 @@
  * and open the template in the editor.
  */
 package yongki.kalkulator.fungsi;
-
 /**
  *
  * @author yongki
+ * Nama : Yongki Agustin
+ * Kelas : PBO6/IF6K 
+ * Nim : 10117903
+ * Deskripsi Program :class ini berfungsi untuk menyimpan fungsi aritmatika
  */
 public class fungsiPenjumlahan {
    public double tambahBilangan(double value1, double value2) {

@@ -7,7 +7,7 @@ package perkenalkanDiri.Model;
 /**
  *
  * @author yongki
- * Nama : ongki Agustin
+ * Nama : Yongki Agustin
  * Kelas : PBO6/IF6K 
  * Nim : 10117903
  * Deskripsi Program : disini kumpulan fungsi untuk dipanggil di main class

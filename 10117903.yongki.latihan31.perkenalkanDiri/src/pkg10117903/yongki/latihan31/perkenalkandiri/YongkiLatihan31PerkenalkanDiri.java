@@ -9,7 +9,7 @@ import perkenalkanDiri.Model.Mahasiswa;
 /**
  *
  * @author yongki
- * Nama : ongki Agustin
+ * Nama : Yongki Agustin
  * Kelas : PBO6/IF6K 
  * Nim : 10117903
  * Deskripsi Program : Program menampilkan data diri dengan memanggil fungsi di class mahasiswa
