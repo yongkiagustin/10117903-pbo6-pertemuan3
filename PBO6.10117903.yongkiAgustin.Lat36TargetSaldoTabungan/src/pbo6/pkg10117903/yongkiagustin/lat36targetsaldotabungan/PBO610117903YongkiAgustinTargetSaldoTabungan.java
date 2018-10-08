@@ -6,10 +6,15 @@
 package pbo6.pkg10117903.yongkiagustin.lat36targetsaldotabungan;
 
 import lat36TargetSaldoTabungan.TargetSaldoTabunganFungsi;
-
 /**
  *
  * @author yongki
+ * Nama : Yongki Agustin
+ * Kelas : PBO6/IF6K 
+ * Nim : 10117903
+ * Deskripsi Program : Program ini berisi program untuk mneghitung berapa
+ * lamanya menabung untuk mencapai target tabungan dengan ditambah bunga
+ * perbulannya
  */
 public class PBO610117903YongkiAgustinTargetSaldoTabungan {
 

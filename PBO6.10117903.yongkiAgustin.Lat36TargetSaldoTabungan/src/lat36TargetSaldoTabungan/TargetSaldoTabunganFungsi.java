@@ -1,14 +1,12 @@
 package lat36TargetSaldoTabungan;
-
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 /**
  *
  * @author yongki
+ * Nama : Yongki Agustin
+ * Kelas : PBO6/IF6K 
+ * Nim : 10117903
+ * Deskripsi Program : class ini untuk menyimpan fungsi perulangan agar tabungan
+ * mencapai terget 8 bulan
  */
 public class TargetSaldoTabunganFungsi {
 
